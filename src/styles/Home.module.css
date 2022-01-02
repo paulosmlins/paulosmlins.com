@@ -1,0 +1,43 @@
+.container {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.textLeft {
+  text-align: left;
+}
+
+.textLeft h2 {
+  margin: 0;
+  padding: 0;
+  color: #fcf4ff;
+}
+
+.textLeft h1 {
+  margin: 0;
+  padding: 0;
+  color: #fd4f93;
+  font-size: 2.5rem;
+}
+
+.textRight {
+  text-align: right;
+}
+
+.textRight h2 {
+  margin: 0;
+  padding: 0;
+  color: #fcf4ff;
+}
+
+.textRight span {
+  margin: 0;
+  padding: 0;
+  color: #fd4f93;
+}
+
+.myImgHome {
+  height: 40rem;
+}
